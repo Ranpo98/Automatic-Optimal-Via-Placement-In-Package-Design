@@ -1,0 +1,10 @@
+$begin 'CacheDataVersion'
+	DataVersion=37
+$end 'CacheDataVersion'
+$begin 'VariableValues'
+	Size='10mm'
+	h='0.254mm'
+	w0='0.3mm'
+	r0='2mm'
+	r1='0.15mm'
+$end 'VariableValues'
